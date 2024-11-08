@@ -10,24 +10,24 @@ DOMAIN-SUFFIX, doubanio.com
 #同步数据
 DOMAIN, gateway.icloud.com
 
-# 360资源
+#360|点播
 DOMAIN-SUFFIX,360zy.com
 DOMAIN-SUFFIX,lyhuicheng.com
 
 #黑木耳|点播
 
-# 华为吧资源
+#华为吧|点播
 DOMAIN-SUFFIX,hw8.live
 DOMAIN-SUFFIX,huawei8.live
 DOMAIN-SUFFIX,nikanba.live
 DOMAIN-SUFFIX,simaguo.com
 
-# 腐剧资源
+# 腐剧|点播
 DOMAIN-SUFFIX,fuju2024.cc
 DOMAIN-SUFFIX,aiqiepian.top
 DOMAIN-SUFFIX,yishihui.com
 
-# 金鹰资源
+# 金鹰|点播
 DOMAIN-SUFFIX,jinyingzy.com
 DOMAIN-SUFFIX,baisiweiting.com
 

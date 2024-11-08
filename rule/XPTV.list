@@ -22,12 +22,12 @@ DOMAIN-SUFFIX,huawei8.live
 DOMAIN-SUFFIX,nikanba.live
 DOMAIN-SUFFIX,simaguo.com
 
-# 腐剧|点播
+#腐剧|点播
 DOMAIN-SUFFIX,fuju2024.cc
 DOMAIN-SUFFIX,aiqiepian.top
 DOMAIN-SUFFIX,yishihui.com
 
-# 金鹰|点播
+#金鹰|点播
 DOMAIN-SUFFIX,jinyingzy.com
 DOMAIN-SUFFIX,baisiweiting.com
 
@@ -109,7 +109,7 @@ DOMAIN-SUFFIX, wujinapi.com
 #速博|点播
 DOMAIN-SUFFIX,subocaiji.com
 
-# 魔都资源
+#魔都资源
 DOMAIN-SUFFIX,moduzy.com
 DOMAIN-SUFFIX,mdzyapi.com
 DOMAIN-SUFFIX,modujx16.com

@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,yishihui.com
 
 # 金鹰资源
 DOMAIN-SUFFIX,jinyingzy.com
+DOMAIN-SUFFIX,baisiweiting.com
 
 #华为吧|点播
 
@@ -39,8 +40,13 @@ DOMAIN-SUFFIX,jinyingzy.com
 #OK|点播
 
 #宝片|点播
+DOMAIN-SUFFIX,zpsps.com
+DOMAIN-SUFFIX,7bbffvip.com
 
 #小黄人|点播
+DOMAIN-SUFFIX,xiaohuangrentv.com
+DOMAIN-SUFFIX,high22-playback.com
+DOMAIN-SUFFIX,high24-playback.com
 
 #牛牛|点播
 
@@ -49,10 +55,13 @@ DOMAIN-SUFFIX,jinyingzy.com
 #影图|点播
 
 #U酷|点播
+DOMAIN-SUFFIX,ukubf4.com
 
 #豪华|点播
+DOMAIN-SUFFIX,hhwenjian.com
 
 #极速|点播
+DOMAIN-SUFFIX,jisuts.com
 
 #索尼|点播
 DOMAIN-SUFFIX, suoniapi.com
@@ -63,14 +72,17 @@ DOMAIN, snzypic.com
 DOMAIN, v8.suonizy-youku.com
 
 #ikun|点播
+DOMAIN-SUFFIX,bfikuncdn.com
+DOMAIN-SUFFIX,kkzycdn.com
 
 #非凡|点播
-DOMAIN-SUFFIX, ffzyapi.com
+DOMAIN-SUFFIX,ffzy-online5.com
 
 #量子|点播
-DOMAIN-SUFFIX, lziapi.com
+DOMAIN-SUFFIX,cdnlz12.com
 
 #暴风|点播
+DOMAIN-SUFFIX,7bbffvip.com
 
 #红牛|点播
 DOMAIN-SUFFIX, hongniuzy2.com
@@ -81,11 +93,8 @@ DOMAIN-SUFFIX, kczyapi.com
 #闪电|点播
 DOMAIN-SUFFIX, sdzyapi.com
 
-#樱花|点播
-DOMAIN-SUFFIX, apiyhzy.com
-
 #卧龙|点播
-DOMAIN-SUFFIX, wolongzyw.com
+DOMAIN-SUFFIX,wlcdn99.com
 
 #飘花|点播
 DOMAIN-SUFFIX, ahjiuman.com
@@ -100,7 +109,7 @@ DOMAIN-SUFFIX, p2100.net
 DOMAIN-SUFFIX, wujinapi.com
 
 #速博|点播
-DOMAIN-SUFFIX, subocaiji.com
+DOMAIN-SUFFIX,subocaiji.com
 
 # 魔都资源
 DOMAIN-SUFFIX,moduzy.com
@@ -114,7 +123,7 @@ DOMAIN-SUFFIX, zuidazy.me
 DOMAIN-SUFFIX, hhzyapi.com
 
 #新浪|点播
-DOMAIN-SUFFIX, xinlangapi.com
+DOMAIN-SUFFIX,xlzyd.com
 
 #低端|VOD
 DOMAIN-KEYWORD, ddys

@@ -6,11 +6,6 @@
       "api": "https://360zy.com/api.php/provide/vod/"
     },
     {
-      "name": "魔都|点播",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/"
-    },
-    {
       "name": "黑木耳|点播",
       "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
@@ -149,6 +144,11 @@
       "name": "速博|点播",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod/"
+    },
+    {
+      "name": "魔都|点播",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/"
     },
     {
       "name": "最大|点播",

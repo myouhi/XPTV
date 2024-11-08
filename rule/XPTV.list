@@ -120,9 +120,9 @@ DOMAIN-SUFFIX, hhzyapi.com
 DOMAIN-SUFFIX,xlzyd.com
 
 #低端|VOD
-DOMAIN-KEYWORD, ddys
-DOMAIN-SUFFIX, ddys.pro
-DOMAIN-SUFFIX, ddys.mov
+DOMAIN-KEYWORD,ddys
+DOMAIN-SUFFIX,ddys.pro
+DOMAIN-SUFFIX,ddys.mov
 
 #厂长|VOD
 DOMAIN-KEYWORD, czzy

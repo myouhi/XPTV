@@ -6,7 +6,7 @@ http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000502
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000003
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视IPV6",CCTV4
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000503
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://assets.livednow.com/logo/CCTV5png" group-title="央视IPV6",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视IPV6",CCTV5
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000005
 #EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视IPV6",CCTV5+
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000507

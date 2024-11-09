@@ -10,7 +10,3 @@ https://raw.githubusercontent.com/myouhi/XPTV/master/iptv/iptv-v6.m3u
 ```Java
 https://raw.githubusercontent.com/myouhi/XPTV/master/rule/XPTV.list
 ```
-海外规则：<br>
-```Java
-https://raw.githubusercontent.com/myouhi/XPTV/master/rule/XPTVProxy.list
-```

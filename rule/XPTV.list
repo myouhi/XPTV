@@ -4,255 +4,165 @@
 # DOMAIN-KEYWORD: 
 # DOMAIN-SUFFIX: 
 
+# XPTV探索
+DOMAIN-SUFFIX,infuseku.xyz
+
 #豆瓣封面
-DOMAIN-SUFFIX, doubanio.com
 
 #同步数据
-DOMAIN, gateway.icloud.com
 
-#360|点播
-DOMAIN-SUFFIX,360zy.com
-DOMAIN-SUFFIX,lyhuicheng.com
+# 360|点播
 
-#黑木耳|点播
+# 黑木耳|点播
 
-#华为吧|点播
-DOMAIN-SUFFIX,hw8.live
-DOMAIN-SUFFIX,huawei8.live
-DOMAIN-SUFFIX,nikanba.live
-DOMAIN-SUFFIX,simaguo.com
+# 华为吧|点播
 
-#腐剧|点播
-DOMAIN-SUFFIX,fuju2024.cc
-DOMAIN-SUFFIX,aiqiepian.top
-DOMAIN-SUFFIX,yishihui.com
+# 腐剧|点播
 
-#金鹰|点播
-DOMAIN-SUFFIX,jinyingzy.com
-DOMAIN-SUFFIX,baisiweiting.com
+# 金鹰|点播
 
-#OK|点播
+# OK|点播
 
-#宝片|点播
-DOMAIN-SUFFIX,zpsps.com
-DOMAIN-SUFFIX,7bbffvip.com
+# 宝片|点播
 
-#小黄人|点播
-DOMAIN-SUFFIX,xiaohuangrentv.com
-DOMAIN-SUFFIX,high22-playback.com
-DOMAIN-SUFFIX,high24-playback.com
+# 小黄人|点播
 
-#牛牛|点播
-DOMAIN-SUFFIX,niuniuzy.info
-DOMAIN-SUFFIX,niuniuzy.me
-DOMAIN-SUFFIX,xingchongwang.com
-DOMAIN-SUFFIX,ijkklmn.com
+# 牛牛|点播
 
-#丫丫|点播
-DOMAIN-SUFFIX,yayazy.net
-DOMAIN-SUFFIX,yayazy.info
-DOMAIN-SUFFIX,fghjklm.com
-DOMAIN-SUFFIX,qdhdcate.com
+# 丫丫|点播
 
-#影图|点播
-DOMAIN-SUFFIX,vodimg.top
-DOMAIN-SUFFIX,cdnlz22.com
-DOMAIN-SUFFIX,5679abb.com
-DOMAIN-SUFFIX,cdnlz3.com
-DOMAIN-SUFFIX,lmnoprs.com
-DOMAIN-SUFFIX,lmnno.com
-DOMAIN-SUFFIX,lmnno.vip
-DOMAIN-SUFFIX,opqqq.vip
-DOMAIN-SUFFIX,tlkqc.com
+# 影图|点播
 
-#U酷|点播
-DOMAIN-SUFFIX,ukuapi.com
-DOMAIN-SUFFIX,ukubf3.com
-DOMAIN-SUFFIX,ukubf4.com
+# U酷|点播
 
-#豪华|点播
-DOMAIN-SUFFIX,hhwenjian.com
+# 豪华|点播
 
-#极速|点播
-DOMAIN-SUFFIX,jisuts.com
+# 极速|点播
 
-#索尼|点播
-DOMAIN-SUFFIX, suoniapi.com
-DOMAIN, v3.sxzyhuij.com
-DOMAIN, v3.suonizy-youku.com
-DOMAIN, v8.sxzyhuij.com
-DOMAIN, snzypic.com
-DOMAIN, v8.suonizy-youku.com
+# 索尼|点播
 
-#ikun|点播
-DOMAIN-SUFFIX,bfikuncdn.com
-DOMAIN-SUFFIX,kkzycdn.com
+# ikun|点播
 
-#非凡|点播
-DOMAIN-SUFFIX,ffzyapi.com
-DOMAIN-SUFFIX,ffzy-online3.com
-DOMAIN-SUFFIX,ffzy-online5.com
+# 非凡|点播
 
-#量子|点播
-DOMAIN-SUFFIX,cdnlz12.com
+# 量子|点播
 
-#暴风|点播
-DOMAIN-SUFFIX,7bbffvip.com
+# 暴风|点播
 
-#红牛|点播
-DOMAIN-SUFFIX, hongniuzy2.com
+# 红牛|点播
 
-#快车|点播
-DOMAIN-SUFFIX, kczyapi.com
+# 快车|点播
 
-#闪电|点播
-DOMAIN-SUFFIX, sdzyapi.com
+# 闪电|点播
 
-#樱花|点播
+# 樱花|点播
 
-#卧龙|点播
-DOMAIN-SUFFIX,wlcdn99.com
+# 卧龙|点播
 
-#飘花|点播
-DOMAIN-SUFFIX, ahjiuman.com
+# 飘花|点播
 
-#虎牙|点播
-DOMAIN-SUFFIX, huyaapi.com
+# 虎牙|点播
 
-#飘零|点播
-DOMAIN-SUFFIX, p2100.net
+# 飘零|点播
 
-#无尽|点播
-DOMAIN-SUFFIX, wujinapi.com
+# 无尽|点播
 
-#速博|点播
-DOMAIN-SUFFIX,subocaiji.com
+# 速博|点播
 
-#魔都资源
-DOMAIN-SUFFIX,moduzy.com
-DOMAIN-SUFFIX,mdzyapi.com
-DOMAIN-SUFFIX,modujx16.com
+# 魔都资源
 
-#最大|点播
-DOMAIN-SUFFIX,zuidazy.me
-DOMAIN-SUFFIX,zuidapic.com
-DOMAIN-SUFFIX,bccefgh.com
-DOMAIN-SUFFIX,daayee.com
-DOMAIN-SUFFIX,jklnopq.com
-DOMAIN-SUFFIX,vwxyy01.com
-DOMAIN-SUFFIX,stuuvwy.com
+# 最大|点播
 
-#火狐|点播
-DOMAIN-SUFFIX, hhzyapi.com
+# 火狐|点播
 
-#新浪|点播
-DOMAIN-SUFFIX,xlzyd.com
+# 新浪|点播
 
-#低端|VOD
-DOMAIN-KEYWORD,ddys
+# 低端|VOD
 DOMAIN-SUFFIX,ddys.pro
-DOMAIN-SUFFIX,ddys.mov
 
-#厂长|VOD
-DOMAIN-KEYWORD, czzy
-DOMAIN-KEYWORD, czys
-DOMAIN-SUFFIX, czzy88.com
-DOMAIN-SUFFIX, czzy22.com
-DOMAIN-SUFFIX, czzy66.com
-DOMAIN-SUFFIX, cz233.com
-DOMAIN-SUFFIX, czys.top
-DOMAIN-SUFFIX, czzy77.com
+# 厂长|VOD
 
-#绝缘|VOD
+# 绝缘|VOD
 
-#欧乐|VOD🪜
+# 欧乐|VOD🪜
 
-#独播库|VOD
+# 独播库|VOD🪜
+# 在线之家|VOD
 
-#在线之家|VOD
-DOMAIN-KEYWORD, zxzj
-DOMAIN-SUFFIX, zxzja.com
-DOMAIN-SUFFIX, zxzjhd.com
-DOMAIN-SUFFIX, zxzj.pro
+# LIBVIO|VOD
 
-#LIBVIO|VOD
+# AGE动漫|VOD
 
-#AGE动漫|VOD
-DOMAIN-SUFFIX, agedm.org
+# ギリギリ动漫|VOD
+DOMAIN-SUFFIX,girigirilove.com
 
-#ギリギリ动漫|VOD
-DOMAIN-SUFFIX, girigirilove.com
+# 4k-av🪜
+DOMAIN-SUFFIX,4k-av.com
 
-#4k-av🪜
+# 韓劇看看
 
-#韓劇看看
+# 金牌影院
 
-#金牌影院
+# 燒火電影
 
-#燒火電影
+# 素白白影視CN
+DOMAIN-SUFFIX,subaibaiys.com
 
-#素白白影視
+# 兩個BT
 
-#兩個BT
+# NO視頻
 
-#NO視頻
+# 星芽短劇
 
-#星芽短劇
+# 瓜子
 
-#瓜子
-DOMAIN-SUFFIX,9cec79d.com
-DOMAIN-SUFFIX,zaqohu.com
-DOMAIN-SUFFIX,kemfsj.com
+# anfuns
 
-#anfuns
+# 愛壹帆
 
-#愛壹帆
+# 天天影視（❌bf、mgtv、youku、qq）
+DOMAIN-SUFFIX,ryplay7.com
+DOMAIN-SUFFIX,cdnlz2.com
+DOMAIN-SUFFIX,cdnlz12.com
+DOMAIN-SUFFIX,cdnlz21.com
+DOMAIN-SUFFIX,cdnlz22.com
+DOMAIN-SUFFIX,ffzyread1.com
+DOMAIN-SUFFIX,ffzy-online1.com
+DOMAIN-SUFFIX,ffzy-online5.com
+DOMAIN-SUFFIX,ffzy-video.com
+DOMAIN-SUFFIX,rrcdnbf3.com
+DOMAIN-SUFFIX,rrcdnbf5.com
+DOMAIN-SUFFIX,rrcdnbf6.com
 
-#天天影視
+# 囧次元CN
 
-#囧次元
+# hdmoli
 
-#hdmoli
+# nmlive
 
-#nmlive
+# 小纸条 | PAN
 
-#小纸条 | PAN
-DOMAIN-KEYWORD, gitcafe
-DOMAIN-SUFFIX, gitcafe.net
+# 玩偶哥哥 | PAN
+DOMAIN-SUFFIX,wogg.net
 
-#玩偶哥哥 | PAN
-DOMAIN-KEYWORD, wogg
-DOMAIN-SUFFIX, wogg.link
-DOMAIN-SUFFIX, wogg.xyz
-DOMAIN-SUFFIX, xxooo.cf
+# 阿里小站 | PAN
+DOMAIN-SUFFIX,pan666.net
 
-#阿里小站 | PAN
-DOMAIN-KEYWORD,pan666
-DOMAIN-SUFFIX, pan666.net
+# 云盘资源 | PAN
+DOMAIN-SUFFIX,yunpan1.cc
 
-#云盘资源 | PAN
-DOMAIN-KEYWORD,yunpan
-DOMAIN-SUFFIX, yunpan1.cc
+# 南風短劇 | PAN
 
-#南風短劇 | PAN
+# 多多影音 | PAN
 
-#多多影音 | PAN
+# 蜡笔盘 | PAN
 
-#蜡笔盘 | PAN
+# 木偶 | PAN
 
-#木偶 | PAN
+# 小米 | PAN
 
-#小米 | PAN
+# 云盘资源网 | PAN
 
-#云盘资源网 | PAN
+# 校长影视 | PAN
 
-#校长影视 | PAN
-
-#网盘播放
-DOMAIN-KEYWORD, quark
-DOMAIN, drive-pc.quark.cn
-DOMAIN-SUFFIX, aliyundrive.asia
-DOMAIN-SUFFIX, alicloudccp.com
-DOMAIN, openapi.aliyundrive.com
-DOMAIN, auth.aliyundrive.com
-DOMAIN, api.aliyundrive.com
+# 网盘播放

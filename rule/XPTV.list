@@ -1,5 +1,5 @@
-# NAME: XPTV
-# UPDATED: 2024-11-05 02:12:02
+# NAME: XPTV（直连）
+# UPDATED: 2024-11-20 20:00:00
 # DOMAIN: 
 # DOMAIN-KEYWORD: 
 # DOMAIN-SUFFIX: 
@@ -8,8 +8,10 @@
 DOMAIN-SUFFIX,infuseku.xyz
 
 # 豆瓣封面
+DOMAIN-SUFFIX,doubanio.com
 
 # 同步数据
+DOMAIN,gateway.icloud.com
 
 # 360|点播
 DOMAIN-SUFFIX,360zy.com
@@ -41,47 +43,79 @@ DOMAIN-SUFFIX,360zy.com
 # 极速|点播
 
 # 索尼|点播
+DOMAIN-SUFFIX,suoniapi.com
+DOMAIN,v3.sxzyhuij.com
+DOMAIN,v3.suonizy-youku.com
+DOMAIN,v8.sxzyhuij.com
+DOMAIN,snzypic.com
+DOMAIN,v8.suonizy-youku.com
 
 # ikun|点播
 
 # 非凡|点播
+DOMAIN-SUFFIX,ffzyapi.com
 
 # 量子|点播
+DOMAIN-SUFFIX,lziapi.com
 
 # 暴风|点播
 
 # 红牛|点播
+DOMAIN-SUFFIX,hongniuzy2.com
 
 # 快车|点播
+DOMAIN-SUFFIX,kczyapi.com
 
 # 闪电|点播
+DOMAIN-SUFFIX,sdzyapi.com
 
 # 樱花|点播
+DOMAIN-SUFFIX,apiyhzy.com
 
 # 卧龙|点播
+DOMAIN-SUFFIX,wolongzyw.com
 
 # 飘花|点播
+DOMAIN-SUFFIX,ahjiuman.com
 
 # 虎牙|点播
+DOMAIN-SUFFIX,huyaapi.com
 
 # 飘零|点播
+DOMAIN-SUFFIX,p2100.net
 
 # 无尽|点播
+DOMAIN-SUFFIX,wujinapi.com
 
 # 速博|点播
+DOMAIN-SUFFIX,subocaiji.com
 
 # 魔都资源
+DOMAIN-SUFFIX,moduapi.cc
 
 # 最大|点播
+DOMAIN-SUFFIX,zuidazy.me
 
 # 火狐|点播
+DOMAIN-SUFFIX,hhzyapi.com
 
 # 新浪|点播
+DOMAIN-SUFFIX,xinlangapi.com
 
 # 低端|VOD
+DOMAIN-KEYWORD,ddys
 DOMAIN-SUFFIX,ddys.pro
+DOMAIN-SUFFIX,ddys.mov
 
 # 厂长|VOD
+DOMAIN-KEYWORD,czzy
+DOMAIN-KEYWORD,czys
+DOMAIN-SUFFIX,czzy88.com
+DOMAIN-SUFFIX,czzy22.com
+DOMAIN-SUFFIX,czzy66.com
+DOMAIN-SUFFIX,cz233.com
+DOMAIN-SUFFIX,czys.top
+DOMAIN-SUFFIX,czzy77.com
 
 # 绝缘|VOD
 
@@ -90,10 +124,15 @@ DOMAIN-SUFFIX,ddys.pro
 # 独播库|VOD🪜
 
 # 在线之家|VOD
+DOMAIN-KEYWORD,zxzj
+DOMAIN-SUFFIX,zxzja.com
+DOMAIN-SUFFIX,zxzjhd.com
+DOMAIN-SUFFIX,zxzj.pro
 
 # LIBVIO|VOD
 
 # AGE动漫|VOD
+DOMAIN-SUFFIX,agedm.org
 
 # ギリギリ动漫|VOD
 DOMAIN-SUFFIX,girigirilove.com
@@ -143,14 +182,21 @@ DOMAIN-SUFFIX,rrcdnbf6.com
 # nmlive
 
 # 小纸条 | PAN
+DOMAIN-KEYWORD,gitcafe
+DOMAIN-SUFFIX,gitcafe.net
 
 # 玩偶哥哥 | PAN
-DOMAIN-SUFFIX,wogg.net
+DOMAIN-KEYWORD,wogg
+DOMAIN-SUFFIX,wogg.link
+DOMAIN-SUFFIX,wogg.xyz
+DOMAIN-SUFFIX,xxooo.cf
 
 # 阿里小站 | PAN
+DOMAIN-KEYWORD,pan666
 DOMAIN-SUFFIX,pan666.net
 
 # 云盘资源 | PAN
+DOMAIN-KEYWORD,yunpan
 DOMAIN-SUFFIX,yunpan1.cc
 
 # 南風短劇 | PAN
@@ -168,3 +214,10 @@ DOMAIN-SUFFIX,yunpan1.cc
 # 校长影视 | PAN
 
 # 网盘播放
+DOMAIN-KEYWORD,quark
+DOMAIN,drive-pc.quark.cn
+DOMAIN-SUFFIX,aliyundrive.asia
+DOMAIN-SUFFIX,alicloudccp.com
+DOMAIN,openapi.aliyundrive.com
+DOMAIN,auth.aliyundrive.com
+DOMAIN,api.aliyundrive.com

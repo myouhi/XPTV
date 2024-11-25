@@ -299,7 +299,7 @@
       "name": "hdmoli",
       "type": 3,
       "api": "csp_hdmoli",
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hdmoli.js"
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/refs/heads/master/js/hdmoli.js"
     },
     {
       "name": "nmlive",

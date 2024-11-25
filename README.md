@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/myouhi/XPTV/master/json/cms.json
 ```
 iptv资源：<br>
 ```Java
-https://raw.githubusercontent.com/myouhi/XPTV/master/iptv/iptv-v6.m3u
+https://raw.githubusercontent.com/myouhi/XPTV/master/iptv/ipv6.m3u
 ```
 直连规则：<br>
 ```Java

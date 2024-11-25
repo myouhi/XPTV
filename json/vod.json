@@ -1,0 +1,205 @@
+
+{
+  "sites": [
+    {
+      "name": "低端|VOD",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/ddys.js"
+    },
+    {
+      "name": "厂长|VOD",
+      "type": 3,
+      "api": "csp_Czsapp"
+    },
+    {
+      "name": "绝缘|VOD",
+      "type": 3,
+      "api": "csp_Bdys"
+    },
+    {
+      "name": "欧乐|VOD🪜",
+      "type": 3,
+      "api": "csp_Olevod"
+    },
+    {
+      "name": "独播库|VOD",
+      "type": 3,
+      "api": "csp_duboku"
+    },
+    {
+      "name": "在线之家|VOD",
+      "type": 3,
+      "api": "csp_Zxzj"
+    },
+    {
+      "name": "LIBVIO|VOD",
+      "type": 3,
+      "api": "csp_libvio"
+    },
+    {
+      "name": "AGE动漫|VOD",
+      "type": 3,
+      "api": "csp_age",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/agedm.js"
+    },
+    {
+      "name": "ギリギリ动漫|VOD",
+      "type": 3,
+      "api": "csp_girlgirllove",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/girl.js"
+    },
+    {
+      "name": "4k-av",
+      "type": 3,
+      "api": "csp_4kav",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/4kav.js"
+    },
+    {
+      "name": "韓劇看看",
+      "type": 3,
+      "api": "csp_hjkk",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/hjkk.js"
+    },
+    {
+      "name": "金牌影院",
+      "type": 3,
+      "api": "csp_jpyy",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/jpyy.js"
+    },
+    {
+      "name": "燒火電影",
+      "type": 3,
+      "api": "csp_saohuo",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/saohuo.js"
+    },
+    {
+      "name": "素白白影視",
+      "type": 3,
+      "api": "csp_subaibai",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/subaibai.js"
+    },
+    {
+      "name": "兩個BT",
+      "type": 3,
+      "api": "csp_bttwo",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/bttwo.js"
+    },
+    {
+      "name": "NO視頻",
+      "type": 3,
+      "api": "csp_novipnoad",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/novipnoad.js"
+    },
+    {
+      "name": "星芽短劇",
+      "type": 3,
+      "api": "csp_xingya",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/xingya.js"
+    },
+    {
+      "name": "瓜子",
+      "type": 3,
+      "api": "csp_guazi",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/gzys.js"
+    },
+    {
+      "name": "anfuns",
+      "type": 3,
+      "api": "csp_anfuns",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/anfuns.js"
+    },
+    {
+      "name": "愛壹帆",
+      "type": 3,
+      "api": "csp_iyftv",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/iyftv.js"
+    },
+    {
+      "name": "天天影視",
+      "type": 3,
+      "api": "csp_tiantian",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/tiantian.js"
+    },
+    {
+      "name": "囧次元",
+      "type": 3,
+      "api": "csp_jcy",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/jcy.js"
+    },
+    {
+      "name": "hdmoli",
+      "type": 3,
+      "api": "csp_hdmoli",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/hdmoli.js"
+    },
+    {
+      "name": "nmlive",
+      "type": 3,
+      "api": "csp_nmlive",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/nmlive.js"
+    },
+    {
+      "name": "小纸条 | PAN",
+      "type": 3,
+      "api": "csp_Gitcafe"
+    },
+    {
+      "name": "玩偶哥哥 | PAN",
+      "type": 3,
+      "api": "csp_WoGG"
+    },
+    {
+      "name": "阿里小站 | PAN",
+      "type": 3,
+      "api": "csp_pan666"
+    },
+    {
+      "name": "云盘资源 | PAN",
+      "type": 3,
+      "api": "csp_yunpan"
+    },
+    {
+      "name": "南風短劇 | PAN",
+      "type": 3,
+      "api": "csp_nanfdj",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/nanfdj.js"
+    },
+    {
+      "name": "多多影音 | PAN",
+      "type": 3,
+      "api": "csp_yydsys",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/yydsys.js"
+    },
+    {
+      "name": "蜡笔盘 | PAN",
+      "type": 3,
+      "api": "csp_labi",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/labipan.js"
+    },
+    {
+      "name": "木偶 | PAN",
+      "type": 3,
+      "api": "csp_muou",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/muou.js"
+    },
+    {
+      "name": "小米 | PAN",
+      "type": 3,
+      "api": "csp_mihdr",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/mihdr.js"
+    },
+    {
+      "name": "云盘资源网 | PAN",
+      "type": 3,
+      "api": "csp_yunpanres",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/yunpanres.js"
+    },
+    {
+      "name": "校长影视 | PAN",
+      "type": 3,
+      "api": "csp_xzys",
+      "ext": "https://raw.githubusercontent.com/myouhi/XPTV/master/js/xzys.js"
+    }
+  ]
+}

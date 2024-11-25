@@ -1,8 +1,5 @@
 订阅资源：<br>
 ```Java
-https://raw.githubusercontent.com/myouhi/XPTV/master/json/xptv.json
-```
-```Java
 https://raw.githubusercontent.com/myouhi/XPTV/master/json/vod.json
 ```
 ```Java

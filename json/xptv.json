@@ -173,7 +173,8 @@
     {
       "name": "低端|VOD",
       "type": 3,
-      "api": "csp_Ddrk"
+      "api": "csp_Ddrk",
+      "ext": "https://gist.githubusercontent.com/occupy-pluto/06ace7797b4c2727430a98657fff424f/raw/458c6aed5fb63a391913f52efd74e34d53146730/ddys.js"
     },
     {
       "name": "厂长|VOD",
